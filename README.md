@@ -9,6 +9,8 @@ I have worked in mainly python and LUA, I want to expand my knowledge and learn 
 
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="48" alt="Visual Studio"> <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="48" alt="PyCharm">
 
+![](https://komarev.com/ghpvc/?username=FedoraSmae)
+
 <!--
 **FedoraSmae/FedoraSmae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
