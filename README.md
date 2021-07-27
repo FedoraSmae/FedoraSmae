@@ -3,7 +3,7 @@
 
 I have worked with python mainly, as well as HTML and CSS for my website, along with a small bit of LUA through my game prototype. I am also familiar with software such as Dreamweaver (my website) and Photoshop. 
 
-## Programming Languages and Tools used:
+## Languages and Tools used:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python Logo"> <img src="https://seeklogo.com/images/L/lua-logo-A416E5A66F-seeklogo.com.png" width="48" alt="LUA Logo"> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="48" alt="HTML5"> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" width="48" alt="CSS">
 
